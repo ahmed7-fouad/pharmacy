@@ -4,7 +4,7 @@
   --icons-color: rgb(32, 32, 32);
 }
 html{
-  scroll-behavior:smooth;
+    scroll-behavior:smooth;
 }
 * {
   box-sizing: border-box;
