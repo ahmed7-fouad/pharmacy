@@ -3,6 +3,9 @@
   --secound-color: #ac5631;
   --icons-color: rgb(32, 32, 32);
 }
+html{
+  scroll-behavior:smooth;
+}
 * {
   box-sizing: border-box;
   font-family: "Lato", sans-serif;
